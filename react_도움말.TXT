@@ -1,0 +1,10 @@
+react app
+
+  Local:            http://localhost:3000        
+  On Your Network:  http://192.168.0.17:3000     
+
+실행
+   nmp start
+
+종료
+  ctrl+c
