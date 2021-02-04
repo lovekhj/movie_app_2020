@@ -8,3 +8,13 @@ react app
 
 Á¾·á
   ctrl+c
+
+
+git remote rm origin https://github.com/lovekhj/movie_app_2020.git
+git remote add origin https://github.com/lovekhj/movie_app_2020.git
+
+git remote remove origin https://github.com/lovekhj/movie_app_2020.git
+git remote remove movie_app_2020.git
+
+git remote remove https://github.com/lovekhj/movie_app_2020.git
+git remote remove movie_app_2020.git
